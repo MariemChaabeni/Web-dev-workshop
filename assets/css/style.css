@@ -28,12 +28,14 @@ header {
   color: #fff;
   margin: 0;
 }
-.overlay button {
+.overlay a {
   font-size: 1.5rem;
   padding: 4px 32px;
   background: #c15fff;
+  text-decoration: none;
   border-radius: 34px;
   border: none;
+  display: inline-block;
   margin-top: 23px;
   box-shadow: 1px 3px 6px 0px #29272791;
   cursor: pointer;
